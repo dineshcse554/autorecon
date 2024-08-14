@@ -30,5 +30,5 @@ You can install these tools using your package manager or by following the insta
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone (https://github.com/dineshcse554/autorecon.git)
    cd <repository-name>
